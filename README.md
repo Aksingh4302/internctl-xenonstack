@@ -1,4 +1,4 @@
-# internsctl
+# internctl-xenonstack
 
 `internsctl` is a command-line tool designed to perform various system operations. It provides functionalities related to CPU information, memory information, user management, and file information retrieval.
 
@@ -19,10 +19,10 @@ To use `internsctl`, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/internsctl.git
+   git clone https://github.com/your-username/internctl-xenonstack.git
    
 ```bash
-cd internsctl
+cd internctl-xenonstack
 ``````
 ```bash 
 chmod +x internsctl
