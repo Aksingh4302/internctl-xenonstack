@@ -35,6 +35,10 @@ sudo mv internctl /usr/local/bin/
 internctl [options] subcommand [arguments]
 
 ```
+![one](https://github.com/Aksingh4302/internctl-xenonstack/assets/92823423/236be1fd-5201-49fd-bfb9-50a0a2ebfe82)
+
+![two](https://github.com/Aksingh4302/internctl-xenonstack/assets/92823423/9b3f8c98-71d8-416b-b963-0ee21413f9c4)
+
 
 ### Options:
 - --help: Display help information.
